@@ -1,0 +1,9 @@
+numpy 
+matplotlib
+networkx
+teaspoon
+scikit-tda
+ripser
+pandas
+IPython
+ipywidgets
