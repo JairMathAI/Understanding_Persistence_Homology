@@ -29,6 +29,10 @@ pip install -r requirements.txt
 
 Run Jupyter Lab and now you can use the  Persistent_Homology.ipynb
 
+```bash
+jupyter lab
+```
+
 
 
 
