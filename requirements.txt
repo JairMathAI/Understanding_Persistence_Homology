@@ -6,4 +6,5 @@ scikit-tda
 ripser
 pandas
 IPython
+jupyterlab
 ipywidgets
