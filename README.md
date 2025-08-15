@@ -1,4 +1,4 @@
-# Persistence Homotopy
+# Persistent Homotopy
 
 ## Overview
 This Jupyter Notebook offers an accessible and visual, step-by-step guide to the abstract definition and construction of homotopy. Homotopy is a powerful tool in both pure mathematics and Topological Data Analysis. The notebook also includes practical examples and Python applications.
@@ -10,15 +10,15 @@ This material was created for my presentation at the Knowledge Sharing Seminar f
 Create a new anaconda enviroment
 
 ```bash
-conda create -y -n persistence_homology -c conda-forge python=3.11
-conda activate persistence_homology
+conda create -y -n persistent_homology -c conda-forge python=3.11
+conda activate persistent_homology
 ```
 
 Clone the repository
 
 ```bash
-git clone https://github.com/JairMathAI/Understanding_Persistence_Homology.git
-cd Understanding_Persistence_Homology
+git clone https://github.com/JairMathAI/Understanding_Persistent_Homology.git
+cd Understanding_Persistent_Homology
 ```
 
 Install requirements
@@ -27,7 +27,7 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-Run Jupyter Lab and now you can use the  Persisten_Homology.ipynb
+Run Jupyter Lab and now you can use the  Persistent_Homology.ipynb
 
 
 
