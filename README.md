@@ -1,7 +1,7 @@
 # Persistent Homology
 
 ## Overview
-This Jupyter Notebook offers an accessible and visual, step-by-step guide to the abstract definition and construction of homotopy.
+This Jupyter Notebook offers an accessible and visual, step-by-step guide to the abstract definition and construction of homology.
 
 Homotopy is a powerful tool in both pure mathematics and Topological Data Analysis. The notebook also includes practical examples and Python applications.
 
