@@ -1,4 +1,4 @@
-# Persistent Homotopy
+# Persistent Homology
 
 ## Overview
 This Jupyter Notebook offers an accessible and visual, step-by-step guide to the abstract definition and construction of homotopy.
